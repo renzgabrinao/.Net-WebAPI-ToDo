@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "WK4FJiVbQ0scvHpfpPkI4GgqF+w5ubXa5W+ZGgmoEqk=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\sql.db",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "sql.db",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sql.db"
+    },
+    {
+      "Identity": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\sql.db-shm",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "sql.db-shm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sql.db-shm"
+    },
+    {
+      "Identity": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\sql.db-wal",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\.Net-WebAPI-ToDo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "sql.db-wal",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sql.db-wal"
+    }
+  ]
+}
