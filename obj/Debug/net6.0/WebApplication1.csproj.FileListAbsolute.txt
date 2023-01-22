@@ -1,182 +1,60 @@
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\appsettings.json
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Humanizer.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
-C:\Temp\webAPI day2\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Temp\webAPI day2\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\appsettings.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\WebApplication1.exe
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\WebApplication1.deps.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\WebApplication1.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\WebApplication1.pdb
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Humanizer.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\refint\WebApplication1.dll
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.pdb
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
-C:\Users\renz-bcit-vm-1-admin\Desktop\github\.Net-WebAPI-ToDo\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Temp\webAPI day1\exercise\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll

@@ -10,8 +10,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<MyDbContext>(options =>
-         options.UseSqlite("Data Source=.\\wwwroot\\sql.db"));
+builder.Services.AddDbContext<TodoContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration
+           .GetConnectionString("DefaultConnection"));
+});
 
 
 var app = builder.Build();
