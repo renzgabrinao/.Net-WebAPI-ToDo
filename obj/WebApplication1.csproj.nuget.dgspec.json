@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rgabr\\Desktop\\github\\renz-bcit-2022\\ASP.NET\\WebAPI\\webapi-renz-day1ex\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebAPI-ToDo\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rgabr\\Desktop\\github\\renz-bcit-2022\\ASP.NET\\WebAPI\\webapi-renz-day1ex\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebAPI-ToDo\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rgabr\\Desktop\\github\\renz-bcit-2022\\ASP.NET\\WebAPI\\webapi-renz-day1ex\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebAPI-ToDo\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\rgabr\\Desktop\\github\\renz-bcit-2022\\ASP.NET\\WebAPI\\webapi-renz-day1ex\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebAPI-ToDo\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\rgabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rgabr\\Desktop\\github\\renz-bcit-2022\\ASP.NET\\WebAPI\\webapi-renz-day1ex\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebAPI-ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,11 +42,15 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.0.12, )"
+              "version": "[6.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
